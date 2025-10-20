@@ -112,13 +112,5 @@ agendador-notificacoes/
 ├── pom.xml
 └── README.md
 
-📄 Licença
-
-Este projeto é distribuído sob a licença MIT.
-Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
-
-✨ Autor
-
-
 💼 Vitor2209
 📧 vitordutra1125@gmail.com
