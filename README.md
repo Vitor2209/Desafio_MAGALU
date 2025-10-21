@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="img/img.jpg" alt="Transação API" width="600"/>
+</p>
+
+
+
 🗓️ Agendador de Notificações
 
 Este projeto foi desenvolvido como parte de um desafio técnico com o objetivo de demonstrar habilidades de desenvolvimento Java Backend.
